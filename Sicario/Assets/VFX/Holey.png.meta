@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: ccd718037bfbace45b29451ff7759128
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2884723364562524039
+    second: Holey_0
+  - first:
+      213: -4014486656367195925
+    second: Holey_1
+  - first:
+      213: -256511015387633010
+    second: Holey_2
+  - first:
+      213: -6500883497312894263
+    second: Holey_3
+  - first:
+      213: -2138977504232068999
+    second: Holey_4
+  - first:
+      213: 1779031732154028059
+    second: Holey_5
+  - first:
+      213: -5276329424739515769
+    second: Holey_6
+  - first:
+      213: 2561711339983749914
+    second: Holey_7
+  - first:
+      213: -4036960600429999816
+    second: Holey_8
+  - first:
+      213: 5266552616680553917
+    second: Holey_9
+  - first:
+      213: 680709407714646536
+    second: Holey_10
+  - first:
+      213: 1549346703357799950
+    second: Holey_11
+  - first:
+      213: -1354367897679957064
+    second: Holey_12
+  - first:
+      213: -6043415365044137065
+    second: Holey_13
+  - first:
+      213: 8670108886987814920
+    second: Holey_14
+  - first:
+      213: 7893403811004734784
+    second: Holey_15
+  - first:
+      213: 8196015730072597962
+    second: Holey_16
+  - first:
+      213: 21149150915296509
+    second: Holey_17
+  - first:
+      213: -7577604953525542947
+    second: Holey_18
+  - first:
+      213: -5171554171253435714
+    second: Holey_19
+  - first:
+      213: 844072457425224494
+    second: Holey_20
+  - first:
+      213: 1499710619473023067
+    second: Holey_21
+  - first:
+      213: -7219039495894270935
+    second: Holey_22
+  - first:
+      213: -2849101012878974108
+    second: Holey_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holey_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d40cbd98980820800000000000000
+      internalID: 2884723364562524039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 313.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be800bbd7ada948c0800000000000000
+      internalID: -4014486656367195925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 313.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a68de2790b07cf0800000000000000
+      internalID: -256511015387633010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 313.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2477007e838c5a0800000000000000
+      internalID: -6500883497312894263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 313.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97822bdea43d052e0800000000000000
+      internalID: -2138977504232068999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 313.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1050374fe360b810800000000000000
+      internalID: 1779031732154028059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c578e756b6c6b0800000000000000
+      internalID: -5276329424739515769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 209.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1342d424e60d8320800000000000000
+      internalID: 2561711339983749914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 209.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394f1ff8b5d9f7c0800000000000000
+      internalID: -4036960600429999816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 209.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf52493bd861940800000000000000
+      internalID: 5266552616680553917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 209.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a191a899d527900800000000000000
+      internalID: 680709407714646536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 209.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e609f2e92608510800000000000000
+      internalID: 1549346703357799950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f793a291543de0800000000000000
+      internalID: -1354367897679957064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 105.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7931860beb9712ca0800000000000000
+      internalID: -6043415365044137065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808bdd4b81a625870800000000000000
+      internalID: 8670108886987814920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 105.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd6afe1f00b8d60800000000000000
+      internalID: 7893403811004734784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 105.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5bd74d1e81eb170800000000000000
+      internalID: 8196015730072597962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 105.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7b9b6a032b4000800000000000000
+      internalID: 21149150915296509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9ed05170f6d690800000000000000
+      internalID: -7577604953525542947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2dfbd91e2fa38b0800000000000000
+      internalID: -5171554171253435714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23858d8d6fb6bb00800000000000000
+      internalID: 844072457425224494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501293dcda00d410800000000000000
+      internalID: 1499710619473023067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf4bb93d1d0db90800000000000000
+      internalID: -7219039495894270935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holey_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1.5
+        width: 100
+        height: 104.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a42659b5f578d0800000000000000
+      internalID: -2849101012878974108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 473a9a93285bc4040ae5cbbbe3ee743b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1869736910852382440
+    second: Holez_0
+  - first:
+      213: -542743707632629206
+    second: Holez_1
+  - first:
+      213: -813994849733189304
+    second: Holez_2
+  - first:
+      213: 6068202435264154631
+    second: Holez_3
+  - first:
+      213: -8540755000745725956
+    second: Holez_4
+  - first:
+      213: 1162834159595284821
+    second: Holez_5
+  - first:
+      213: 3859939958351035759
+    second: Holez_6
+  - first:
+      213: 4774415961810889428
+    second: Holez_7
+  - first:
+      213: 7956050113212943463
+    second: Holez_8
+  - first:
+      213: -7437561424812568991
+    second: Holez_9
+  - first:
+      213: 3411717434957680900
+    second: Holez_10
+  - first:
+      213: 1928168731595911622
+    second: Holez_11
+  - first:
+      213: 5178042491233472430
+    second: Holez_12
+  - first:
+      213: 528482438138256841
+    second: Holez_13
+  - first:
+      213: -3913300942964890084
+    second: Holez_14
+  - first:
+      213: -1182348400106352945
+    second: Holez_15
+  - first:
+      213: -1569808129652057582
+    second: Holez_16
+  - first:
+      213: -5698237111397264506
+    second: Holez_17
+  - first:
+      213: 1514018733378459189
+    second: Holez_18
+  - first:
+      213: 4945194740693173704
+    second: Holez_19
+  - first:
+      213: -2293776068600227483
+    second: Holez_20
+  - first:
+      213: -8670159056109619300
+    second: Holez_21
+  - first:
+      213: 1980003085414806209
+    second: Holez_22
+  - first:
+      213: -6599276990973243737
+    second: Holez_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holez_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81125359f2c5d06e0800000000000000
+      internalID: -1869736910852382440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 319.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8a763979c778f0800000000000000
+      internalID: -542743707632629206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e7a43ffb14b4f0800000000000000
+      internalID: -813994849733189304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 319.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c8413d6f5963450800000000000000
+      internalID: 6068202435264154631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 319.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe8e2e394297980800000000000000
+      internalID: -8540755000745725956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 319.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ed57d187332010800000000000000
+      internalID: 1162834159595284821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d79d7f0f2419530800000000000000
+      internalID: 3859939958351035759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 213.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da61b57502224240800000000000000
+      internalID: 4774415961810889428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 213.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c834dcc61996e60800000000000000
+      internalID: 7956050113212943463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 213.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e06ee3a4978c890800000000000000
+      internalID: -7437561424812568991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 213.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d8a85eead85f20800000000000000
+      internalID: 3411717434957680900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 213.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13ac9de3b32ca10800000000000000
+      internalID: 1928168731595911622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf89d9163a1cd740800000000000000
+      internalID: 5178042491233472430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd534b3afb855700800000000000000
+      internalID: 528482438138256841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 107.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c166063a68921b9c0800000000000000
+      internalID: -3913300942964890084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 107.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec8eaf464779fe0800000000000000
+      internalID: -1182348400106352945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 107.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a9192c2dbe63ae0800000000000000
+      internalID: -1569808129652057582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 107.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683d739a98bcbe0b0800000000000000
+      internalID: -5698237111397264506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365f423400e20510800000000000000
+      internalID: 1514018733378459189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c585287a6cd0a440800000000000000
+      internalID: 4945194740693173704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5699acc81deda20e0800000000000000
+      internalID: -2293776068600227483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97337266486da780800000000000000
+      internalID: -8670159056109619300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b350d0526a7b10800000000000000
+      internalID: 1980003085414806209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holez_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1.5
+        width: 100
+        height: 106.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae81aa8a88aa64a0800000000000000
+      internalID: -6599276990973243737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

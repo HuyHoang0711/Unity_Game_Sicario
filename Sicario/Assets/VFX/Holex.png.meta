@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: df555dc0264dc07418601a421519f151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1567752427653798390
+    second: Holex_0
+  - first:
+      213: -3078172773100925900
+    second: Holex_1
+  - first:
+      213: -816999810552902740
+    second: Holex_2
+  - first:
+      213: 7408613426569838681
+    second: Holex_3
+  - first:
+      213: 1219283560725126542
+    second: Holex_4
+  - first:
+      213: -7863331629311727998
+    second: Holex_5
+  - first:
+      213: 3152627243789928963
+    second: Holex_6
+  - first:
+      213: 1021903113804994362
+    second: Holex_7
+  - first:
+      213: 759156917719519423
+    second: Holex_8
+  - first:
+      213: -8558845708668726893
+    second: Holex_9
+  - first:
+      213: -5911868050842899633
+    second: Holex_10
+  - first:
+      213: 2834675910306548010
+    second: Holex_11
+  - first:
+      213: -2368593999698152382
+    second: Holex_12
+  - first:
+      213: 4934498969201450312
+    second: Holex_13
+  - first:
+      213: 8074767151870345514
+    second: Holex_14
+  - first:
+      213: -6616324012549013942
+    second: Holex_15
+  - first:
+      213: -3167806401024587528
+    second: Holex_16
+  - first:
+      213: -6133973669125023878
+    second: Holex_17
+  - first:
+      213: 7326768708033249342
+    second: Holex_18
+  - first:
+      213: 1215878192446923070
+    second: Holex_19
+  - first:
+      213: 4412164154972845485
+    second: Holex_20
+  - first:
+      213: 1976019261925924090
+    second: Holex_21
+  - first:
+      213: -658349920358510103
+    second: Holex_22
+  - first:
+      213: -8596329096757745556
+    second: Holex_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0660fd29793e3ae0800000000000000
+      internalID: -1567752427653798390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4a06fb222845d0800000000000000
+      internalID: -3078172773100925900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 322.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabce6e300f69a4f0800000000000000
+      internalID: -816999810552902740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 322.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95082e0b8aea0d660800000000000000
+      internalID: 7408613426569838681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 322.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9e7d30f3cbe010800000000000000
+      internalID: 1219283560725126542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 322.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e7cb7b85dfd290800000000000000
+      internalID: -7863331629311727998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a415f56c160cb20800000000000000
+      internalID: 3152627243789928963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37563db7778e2e00800000000000000
+      internalID: 1021903113804994362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 215.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d379c131198a00800000000000000
+      internalID: 759156917719519423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 215.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3919c67bc2fd83980800000000000000
+      internalID: -8558845708668726893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 215.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b27868453d4fda0800000000000000
+      internalID: -5911868050842899633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 215.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29cd2fb8bac65720800000000000000
+      internalID: 2834675910306548010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244bede7e40112fd0800000000000000
+      internalID: -2368593999698152382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 108.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d98cb1bacda7440800000000000000
+      internalID: 4934498969201450312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21893351f55f0070800000000000000
+      internalID: 8074767151870345514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ef0298d581e24a0800000000000000
+      internalID: -6616324012549013942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 108.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f888bdacd0b904d0800000000000000
+      internalID: -3167806401024587528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 108.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a771436727fbfdaa0800000000000000
+      internalID: -6133973669125023878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3005c13259eda560800000000000000
+      internalID: 7326768708033249342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3161f626caafd010800000000000000
+      internalID: 1215878192446923070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da53edb1ce72b3d30800000000000000
+      internalID: 4412164154972845485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc9c60ac0b3c6b10800000000000000
+      internalID: 1976019261925924090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1df1b4c321dd6f0800000000000000
+      internalID: -658349920358510103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holex_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1.5
+        width: 100
+        height: 107.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6866675b34b3b880800000000000000
+      internalID: -8596329096757745556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
